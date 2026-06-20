@@ -82,14 +82,14 @@ export function ContactFooter() {
               </p>
             </div>
 
-            <a
-              href="public/CV_Nahir_Icare.pdf" 
-              download="CV_Nahir_Icare.pdf"
-              className="inline-flex items-center gap-3 px-8 py-4 mb-8 bg-secondary text-secondary-foreground font-medium hover:bg-secondary/80 transition-colors duration-200"
-            >
-              <FileText size={20} />
-              Descarga mi CV
-            </a>
+              <a
+                href="/CV_Nahir_Icare.pdf" 
+                download="CV_Nahir_Icare.pdf" 
+                target="_blank" 
+                rel="noopener noreferrer"
+              >
+                Descargar CV
+              </a>
           </motion.div>
         </div>
 
