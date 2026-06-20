@@ -87,9 +87,12 @@ export function ContactFooter() {
                 download="CV_Nahir_Icare.pdf" 
                 target="_blank" 
                 rel="noopener noreferrer"
+                className="..." // Tus clases aquí
               >
+                <FileText size={20} /> 
                 Descargar CV
               </a>
+              
           </motion.div>
         </div>
 
