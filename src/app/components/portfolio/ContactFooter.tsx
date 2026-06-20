@@ -87,7 +87,7 @@ export function ContactFooter() {
                 download="CV_Nahir_Icare.pdf" 
                 target="_blank" 
                 rel="noopener noreferrer"
-                className="..." // Tus clases aquí
+                className="inline-flex items-center gap-3 px-8 py-4 bg-[#1e3a5f] text-white font-medium hover:bg-[#1e3a5f]/90 transition-colors duration-200"
               >
                 <FileText size={20} /> 
                 Descargar CV
