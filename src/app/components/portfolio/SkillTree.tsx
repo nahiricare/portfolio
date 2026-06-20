@@ -1,5 +1,5 @@
 import { motion } from "motion/react";
-import { Server, Cloud, Database, Code2, GitBranch, Container } from "lucide-react";
+import { Server, Cloud, Database, Code2, GitBranch } from "lucide-react";
 
 interface Skill {
   name: string;
