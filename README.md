@@ -17,7 +17,7 @@ Construido con un enfoque moderno y performante:
 
 1. **Clonar el repo:**
    ```bash
-   git clone [https://github.com/tu-usuario/nombre-del-repo.git](https://github.com/tu-usuario/nombre-del-repo.git)
+   git clone [https://github.com/nahiricare/portfolio.git]
 
 2. **Instalar dependencias**
 Podés usar npm o pnpm:
