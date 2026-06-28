@@ -1,11 +1,34 @@
+# My Portfolio
 
-  # Portfolio
+![My Portfolio](public/Cap.PNG)
 
-  This is a code bundle for Portfolio. The original project is available at https://www.figma.com/design/3AgSse5bAcAyuOhUvlBo1g/Portfolio.
+Este es el repositorio del código fuente de mi portafolio personal, donde exhibo mis proyectos, mi formación técnica y mis certificaciones.
 
-  ## Running the code
+## Tecnologías Utilizadas
+Construido con un enfoque moderno y performante:
 
-  Run `npm i` to install the dependencies.
+- **Lenguaje:** [TypeScript](https://www.typescriptlang.org/)
+- **UI:** [React](https://react.dev/) v18.3.1
+- **Bundler:** [Vite](https://vite.dev/)
+- **Estilos:** [Tailwind CSS](https://tailwindcss.com/)
+- **Componentes:** [Radix UI](https://www.radix-ui.com/), [Framer Motion](https://www.framer.com/motion/), [Recharts](https://recharts.org/), [MUI](https://mui.com/)
 
-  Run `npm run dev` to start the development server.
+## Cómo correrlo localmente
+
+1. **Clonar el repo:**
+   ```bash
+   git clone [https://github.com/tu-usuario/nombre-del-repo.git](https://github.com/tu-usuario/nombre-del-repo.git)
+
+2. **Instalar dependencias**
+Podés usar npm o pnpm:
+   ```bash
+   npm install
   
+3. **Ejecutar el entorno de desarrollo**
+   ```bash
+   npm run dev
+
+## Licencia
+Este proyecto es de código abierto. Siéntete libre de usarlo como referencia.
+
+Dedicatedly made by Nahir Icare
